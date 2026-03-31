@@ -28,6 +28,10 @@ The dataset consists of **100,000+ crime records**, transformed into an interact
 🎯 **Purpose:**
 Provides a quick summary of overall crime patterns
 
+<p align="center">
+  <img src="Dashboard Images/Crime Overview Dashboard.png" width="900"/>
+</p>
+
 ---
 
 ## 📈 Dashboard 2: Crime Analysis
@@ -41,6 +45,10 @@ Provides a quick summary of overall crime patterns
 
 🎯 **Purpose:**
 Highlights trends, patterns, and high-risk locations
+
+<p align="center">
+  <img src="Dashboard Images/Crime Analysis Dashboard.png" width="900"/>
+</p>
 
 ---
 
@@ -56,6 +64,10 @@ Highlights trends, patterns, and high-risk locations
 🎯 **Purpose:**
 Evaluates investigation performance and outcomes
 
+<p align="center">
+  <img src="Dashboard Images/Investigation & Impact Dashboard.png" width="900"/>
+</p>
+
 ---
 
 ## 👥 Dashboard 4: Demographics
@@ -69,6 +81,10 @@ Evaluates investigation performance and outcomes
 
 🎯 **Purpose:**
 Provides insights into the demographics involved in crimes
+
+<p align="center">
+  <img src="Dashboard Images/Demographics Dashboard.png" width="900"/>
+</p>
 
 ---
 
@@ -95,12 +111,6 @@ Provides insights into the demographics involved in crimes
 * Certain locations show consistently higher crime rates
 * Investigation outcomes differ by crime type
 * Demographic patterns reveal important behavioral insights
-
----
-
-## 📸 Dashboard Preview
-
-(Add your dashboard screenshots here)
 
 ---
 
